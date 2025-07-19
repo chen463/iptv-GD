@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20250718233705 +0800">
+<tv date="20250719093638 +0800">
 	<channel id="中山综合">
 		<display-name lang="zh">中山综合</display-name>
 	</channel>
@@ -1188,41 +1188,23 @@
 	<channel id="广东少儿">
 		<display-name lang="zh">广东少儿</display-name>
 	</channel>
-	<programme channel="广东少儿" start="20250719000000 +0800" stop="20250719000600 +0800">
-		<title lang="zh">精彩呈现</title>
+	<programme channel="广东少儿" start="20250719000000 +0800" stop="20250719005000 +0800">
+		<title lang="zh">午夜剧场</title>
 	</programme>
-	<programme channel="广东少儿" start="20250719000600 +0800" stop="20250719040600 +0800">
-		<title lang="zh">动画片1</title>
+	<programme channel="广东少儿" start="20250719060000 +0800" stop="20250719080000 +0800">
+		<title lang="zh">早间卡通剧场《百变校巴》</title>
 	</programme>
-	<programme channel="广东少儿" start="20250719040600 +0800" stop="20250719060000 +0800">
-		<title lang="zh">动画片2</title>
+	<programme channel="广东少儿" start="20250719080000 +0800" stop="20250719170000 +0800">
+		<title lang="zh">《赵琳的探险日记》</title>
 	</programme>
-	<programme channel="广东少儿" start="20250719060000 +0800" stop="20250719100000 +0800">
-		<title lang="zh">动画片1</title>
+	<programme channel="广东少儿" start="20250719170000 +0800" stop="20250719203000 +0800">
+		<title lang="zh">《羊村守护者》</title>
 	</programme>
-	<programme channel="广东少儿" start="20250719100000 +0800" stop="20250719140000 +0800">
-		<title lang="zh">动画片2</title>
-	</programme>
-	<programme channel="广东少儿" start="20250719140000 +0800" stop="20250719180000 +0800">
-		<title lang="zh">动画片3</title>
-	</programme>
-	<programme channel="广东少儿" start="20250719180000 +0800" stop="20250719183500 +0800">
-		<title lang="zh">动画片4</title>
-	</programme>
-	<programme channel="广东少儿" start="20250719183500 +0800" stop="20250719190000 +0800">
-		<title lang="zh">动画片</title>
-	</programme>
-	<programme channel="广东少儿" start="20250719190000 +0800" stop="20250719202600 +0800">
-		<title lang="zh">动画片</title>
-	</programme>
-	<programme channel="广东少儿" start="20250719202600 +0800" stop="20250719203300 +0800">
-		<title lang="zh">研学大湾区</title>
-	</programme>
-	<programme channel="广东少儿" start="20250719203300 +0800" stop="20250719210000 +0800">
-		<title lang="zh">南方小记者</title>
+	<programme channel="广东少儿" start="20250719203000 +0800" stop="20250719210000 +0800">
+		<title lang="zh">《研学大湾区》《超能议事厅》</title>
 	</programme>
 	<programme channel="广东少儿" start="20250719210000 +0800" stop="20250719235900 +0800">
-		<title lang="zh">动画片</title>
+		<title lang="zh">《羊村守护者》</title>
 	</programme>
 	<channel id="广东影视">
 		<display-name lang="zh">广东影视</display-name>
